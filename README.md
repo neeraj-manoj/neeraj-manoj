@@ -1,11 +1,3 @@
-Here you go buddy — a fully updated, modern, vibe-coded README that matches who you are **right now**:
-AI-native, 18 y/o, vibe-coder, finishing #30Nites long ago, and building apps with 100% AI workflows.
-
-I kept your style but made it more polished, confident, and current.
-You can copy-paste this directly into your GitHub.
-
----
-
 # 👋 Hey there, I'm Neeraj
 
 Welcome to my corner of the internet — where I vibe-code, experiment with AI, break things, fix things, and build apps faster than ever.
@@ -22,13 +14,6 @@ Recently, I shipped a complete app **without writing a single line of code mysel
 * ⚡ 100% **vibe-coded** projects — fast prototypes, real results.
 * 📱 Currently focused on **app development** and AI-assisted tools.
 * 🎯 Goal: Create products that actually help people.
-
----
-
-Alright buddy — here’s a **clean, premium, reorganized Tech Stack section** that makes you look like a proper modern full-stack, AI-native developer.
-Everything is grouped into neat categories so your README looks super professional.
-
-You can paste this directly:
 
 ---
 
@@ -85,14 +70,3 @@ You can paste this directly:
 * 📫 Email: `neerajm2k7@gmail.com`
 * 🌐 Portfolio: [https://neerajm.me/](https://neerajm.me/)
 
----
-
-If you want, buddy, I can also:
-
-* Add an intro banner
-* Add emojis & animations
-* Add skill graphs
-* Add pinned project cards
-* Add a “What I’m building now” section
-
-Just tell me!
