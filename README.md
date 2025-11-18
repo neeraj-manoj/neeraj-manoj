@@ -70,5 +70,5 @@ Recently, I shipped a complete app **without writing a single line of code mysel
 
 * 📫 Email: `neerajm2k7@gmail.com`
 * 🌐 Portfolio: [https://neerajm.me/](https://neerajm.me/)
-* 💖 Support my work:
-                      [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/neerajm)
+
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/neerajm)
