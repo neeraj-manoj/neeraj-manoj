@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/19_y.o._Engineer-BCA_@_SNCT-38bdf8?style=for-the-badge&labelColor=0f172a">
 </a>
 <a href="https://ktccofficial.vercel.app">
-  <img src="https://img.shields.io/badge/Featured_Project-KTCC_Platform-34d399?style=for-the-badge&labelColor=0f172a">
+  <img src="https://img.shields.io/badge/Flagship_Project-KTCC_Platform-34d399?style=for-the-badge&labelColor=0f172a">
 </a>
 <a href="https://instagram.com/neerajm_ig">
   <img src="https://img.shields.io/badge/Instagram-@neerajm__ig-ec4899?style=for-the-badge&labelColor=0f172a">
@@ -49,37 +49,24 @@ interface Builder {
 
 ---
 
-### 🚀 Featured Deployments
+### 🚀 Flagship Deployment
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🏆 [**KTCC Community Competition Platform & Mobile App**](https://ktccofficial.vercel.app)
 
-### 🏆 [**KTCC Platform**](https://ktccofficial.vercel.app)
-*Car Parking Multiplayer Community Competition Platform & Android App*
-* **Frontend:** Next.js 15 (App Router, Turbopack, Tailwind CSS 4)
-* **Backend:** Supabase (PostgreSQL, Row-Level Security, Realtime)
-* **Mobile Engine:** Capacitor Android Hybrid Bridge
-* **CI/CD & CDN:** GitHub Actions Gradle Cloud Build $\rightarrow$ Cloudflare R2 zero-egress edge distribution (APAC)
-* **Ledger:** Idempotent double-entry point transaction ledger with strict constraint validation
+*Production competition management and real-time tournament infrastructure for Car Parking Multiplayer communities.*
 
-</td>
-<td width="50%" valign="top">
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  • Frontend:      Next.js 15 (App Router, Turbopack, Tailwind CSS 4)        │
+│  • Backend / DB:  Supabase (PostgreSQL, Row-Level Security, Realtime Engine)│
+│  • Mobile Engine: Capacitor Android Hybrid Native Bridge                    │
+│  • Cloud CI/CD:   GitHub Actions Gradle Build & Keystore Signing            │
+│  • Edge CDN:      Cloudflare R2 Zero-Egress Object Storage (APAC Edge)      │
+│  • Data Ledger:   Idempotent double-entry point transaction ledger          │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
-### 🎮 [**RIZE Engine**](https://github.com/neeraj-manoj)
-*Terminal-native Gamified Habit & RPG Tracking System*
-* **Language:** Python 3 + Rich Text Engine
-* **Architecture:** State-driven terminal UI with persistent event loops and leveling algorithms
-
----
-
-### 📖 [**Inklave**](https://github.com/neeraj-manoj)
-*Minimalist, High-Performance Linux Document & PDF Reader*
-* **Focus:** Distraction-free rendering engine, keyboard-first navigation
-
-</td>
-</tr>
-</table>
+> 🌐 **Live Web:** [ktccofficial.vercel.app](https://ktccofficial.vercel.app) • 📱 **Android APK:** Direct 1-tap download via Cloudflare R2 edge CDN
 
 <br/>
 
