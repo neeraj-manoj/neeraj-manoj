@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Modern Minimal Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,23&height=180&section=header&text=Neeraj%20Manoj&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Solo%20Architect%20%E2%80%A2%20Full-Stack%20Systems%20%26%20Mobile%20Engineer&descSize=16&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,23&height=180&section=header&text=Neeraj%20M&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Solo%20Architect%20%7C%20Full-Stack%20Systems%20Engineer&descSize=16&descAlignY=60" width="100%"/>
 
 <br/>
 
@@ -35,7 +35,7 @@ I operate on the principle of the **Extended Mind**—directing multi-agent AI t
 
 ```typescript
 interface Builder {
-  name: "Neeraj Manoj";
+  name: "Neeraj M";
   age: 19;
   education: "1st Year BCA @ SNCT";
   role: "Solo Architect & Systems Engineer";
@@ -103,21 +103,12 @@ interface Builder {
 
 ---
 
-### 📊 GitHub Activity & Languages
+### 📊 GitHub Activity Graph
 
 <div align="center">
 
 <a href="https://github.com/neeraj-manoj">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=neeraj-manoj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=34d399&text_color=ffffff&cache_seconds=1800" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/neeraj-manoj">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj-manoj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&langs_count=6&cache_seconds=1800" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/neeraj-manoj">
-  <img src="https://github-readme-stats.vercel.app/api?username=neeraj-manoj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=ffffff" width="60%" alt="Contributions"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neeraj-manoj&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=38bdf8&line=34d399&point=38bdf8" width="95%" alt="Neeraj M GitHub Activity Graph" />
 </a>
 
 </div>
@@ -147,7 +138,7 @@ interface Builder {
 
 <br/><br/>
 
-<sub>⚡ Architected & Shipped by <b>Neeraj Manoj</b></sub>
+<sub>⚡ Architected & Shipped by <b>Neeraj M</b></sub>
 
 <br/>
 
